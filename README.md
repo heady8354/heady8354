@@ -7,3 +7,5 @@
 <p>- 6 years worth of credits in CompSci Classes</p> <!--- (TIC5010) INDS / ENGR TECH PATH CORE ; (TIW2000) WEB DESIGN & DEVELOPMENT 1 ; (XAT10001) STEM CAPSTONE (x2) ; (TIW3000) WEB DESIGN & DEVELOPMENT 2 ; (XEP1100) INTRO STEM SVC LEARNING (Spent the entire course building an educational game about pollution using GDScript)--->
 <p>- 3 Capstone projects regarding CompSci completed before graduation</p>
 <p>- Learned HTML, CSS, JS, Luau, & GDScript</p>
+<h2>MY PROJECTS</h2>
+<p>nothing offical here...</p>
