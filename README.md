@@ -8,4 +8,10 @@
 <p>- 3 Capstone projects regarding CompSci completed before graduation</p>
 <p>- Learned HTML, CSS, JS, Luau, & GDScript</p>
 <h2>MY PROJECTS</h2>
-<p>nothing offical here...</p>
+
+<h3>GAMES</h3>
+<p>- Beyond the Veil, a fantasy-adventure RPG story game similar to Undertale/Deltarune and Pokemon. (In-Progess)</p>
+<p>- City Saver, an educational game about abolishing pollution in cities similar to modern civilization. (In-Progress)</p>
+
+<h3>WEBSITES</h3>
+<p>nothing offical yet..</p>
