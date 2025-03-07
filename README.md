@@ -11,8 +11,7 @@
 <h2>MY PROJECTS</h2>
 
 <h3>GAMES</h3>
-<p>- Beyond the Veil, a fantasy-adventure RPG story game similar to Undertale/Deltarune and Pokemon. (In-Progess)</p>
-<p>- City Saver, an educational game about abolishing pollution in cities similar to modern civilization. (In-Progress)</p>
+<p>- By Nights End, a fantasy-adventure RPG story game similar to Undertale/Deltarune and Pokemon. (In-Progess)</p>
 
 <h3>WEBSITES</h3>
 <p>nothing offical yet..</p>
