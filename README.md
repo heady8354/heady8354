@@ -8,6 +8,7 @@
 <p>- 3 Capstone projects regarding CompSci completed before graduation</p>
 <p>- Learned HTML, CSS, JS, Luau, & GDScript</p>
 <p>- 2025 HonSEF Award Winner (By Nights End/Beyond The Veil)</p>
+<p>- Recipient of the STEM Honors award & CTE (Career & Technical Education) Award)</p>
 <h2>MY PROJECTS</h2>
 
 <h3>GAMES</h3>
