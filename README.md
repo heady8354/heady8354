@@ -14,6 +14,6 @@
 
 <h3>GAMES</h3>
 <p>- By Nights End, a fantasy-adventure RPG story game similar to Undertale/Deltarune and Pokemon. (In-Progess)</p>
-
+<p>- Fortunate Fortress, a Luau tower defense game with rich lore and extra lucky gameplay. (In-Progress)</p>
 <h3>WEBSITES</h3>
 <p>nothing offical yet..</p>
